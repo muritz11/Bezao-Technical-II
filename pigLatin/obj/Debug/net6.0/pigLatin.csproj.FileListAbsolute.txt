@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\see sharp\Bezao-Technical-II\pigLatin\obj\Debug\net6.0\pigLatin.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\see sharp\Bezao-Technical-II\pigLatin\obj\Debug\net6.0\pigLatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\see sharp\Bezao-Technical-II\pigLatin\obj\Debug\net6.0\pigLatin.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\see sharp\Bezao-Technical-II\pigLatin\obj\Debug\net6.0\pigLatin.AssemblyInfo.cs
+C:\Users\USER\Desktop\see sharp\Bezao-Technical-II\pigLatin\obj\Debug\net6.0\pigLatin.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\see sharp\Bezao-Technical-II\pigLatin\bin\Debug\net6.0\pigLatin.exe
+C:\Users\USER\Desktop\see sharp\Bezao-Technical-II\pigLatin\bin\Debug\net6.0\pigLatin.deps.json
+C:\Users\USER\Desktop\see sharp\Bezao-Technical-II\pigLatin\bin\Debug\net6.0\pigLatin.runtimeconfig.json
+C:\Users\USER\Desktop\see sharp\Bezao-Technical-II\pigLatin\bin\Debug\net6.0\pigLatin.dll
+C:\Users\USER\Desktop\see sharp\Bezao-Technical-II\pigLatin\bin\Debug\net6.0\pigLatin.pdb
+C:\Users\USER\Desktop\see sharp\Bezao-Technical-II\pigLatin\obj\Debug\net6.0\pigLatin.dll
+C:\Users\USER\Desktop\see sharp\Bezao-Technical-II\pigLatin\obj\Debug\net6.0\refint\pigLatin.dll
+C:\Users\USER\Desktop\see sharp\Bezao-Technical-II\pigLatin\obj\Debug\net6.0\pigLatin.pdb
+C:\Users\USER\Desktop\see sharp\Bezao-Technical-II\pigLatin\obj\Debug\net6.0\pigLatin.genruntimeconfig.cache
+C:\Users\USER\Desktop\see sharp\Bezao-Technical-II\pigLatin\obj\Debug\net6.0\ref\pigLatin.dll
