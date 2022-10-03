@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\see sharp\\Bezao-Technical-II\\GuessGame\\GuessGame\\GuessGame.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\see sharp\\Bezao-Technical-II\\GuessGame\\GuessGame.csproj",
       "projectName": "GuessGame",
-      "projectPath": "C:\\Users\\USER\\Desktop\\see sharp\\Bezao-Technical-II\\GuessGame\\GuessGame\\GuessGame.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\see sharp\\Bezao-Technical-II\\GuessGame\\GuessGame.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\see sharp\\Bezao-Technical-II\\GuessGame\\GuessGame\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\see sharp\\Bezao-Technical-II\\GuessGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
