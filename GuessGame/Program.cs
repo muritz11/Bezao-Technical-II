@@ -9,7 +9,11 @@ namespace GuessGame
 
             Random random = new Random();
             int randNum = random.Next(10);
-            int retries = 5;
+            int retries = 4;
+
+            string? entry1 = null;
+            string? entry2 = null;
+            string? entry3 = null;
 
             Console.WriteLine("===============================");
             Console.WriteLine(" Welcome to the Guessing game ");
@@ -56,14 +60,54 @@ namespace GuessGame
                     } else if (Int32.Parse(usersGuess) > randNum)
                     {
                         Console.WriteLine("Incorrect!! Number is too large");
-                        retries--;
-                        Console.WriteLine("Number of retries remaining: " + retries);
+                        if(entry1 == null)
+                        {
+                            entry1 = usersGuess;
+                        } else if (entry2 == null)
+                        {
+                            entry2 = usersGuess;
+                        } else if(entry3 == null)
+                        {
+                            entry3 = usersGuess;
+                        }
+
+                        if (entry1 == entry2)
+                        {
+                            if(entry2 == entry3)
+                            {
+                                retries--;
+                                Console.WriteLine("Number of retries remaining: " + retries);
+                            }
+                        }
+
+
                     } else if (Int32.Parse(usersGuess) < randNum)
                     {
                         Console.WriteLine("Incorrect!! Number is too small");
-                        retries--;
-                        Console.WriteLine("Number of retries remaining: " + retries);
-                    } else
+                        if (entry1 == null)
+                        {
+                            entry1 = usersGuess;
+                        }
+                        else if (entry2 == null)
+                        {
+                            entry2 = usersGuess;
+                        }
+                        else if (entry3 == null)
+                        {
+                            entry3 = usersGuess;
+                        }
+
+                        if (entry1 == entry2)
+                        {
+                            if (entry2 == entry3)
+                            {
+                                retries--;
+                                Console.WriteLine("Number of retries remaining: " + retries);
+                            }
+                        }
+
+                    }
+                    else
                     {
                         Console.WriteLine("--------------------------------");
                         Console.WriteLine("Sorry, an error occured");
@@ -93,7 +137,6 @@ namespace GuessGame
                 }
             }
             while (true);
-
 
         }
     }
